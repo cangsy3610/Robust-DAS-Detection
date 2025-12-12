@@ -24,5 +24,5 @@ https://ieeexplore.ieee.org/document/11298278
 ##  How to cite {Type II}
 S. Cang et al., "Robust Detection of Underwater Target Against Non-Uniform Noise With Optical Fiber DAS Array," in IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2025.3643081.
 
-##
+## The code for the replication of the paper is made public.
 The code associated with this paper will be made available in upcoming releases.
